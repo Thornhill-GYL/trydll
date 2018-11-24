@@ -1,0 +1,10 @@
+F:\code\c#\trydll\trydll\bin\Debug\trydll.exe.config
+F:\code\c#\trydll\trydll\bin\Debug\trydll.exe
+F:\code\c#\trydll\trydll\bin\Debug\trydll.pdb
+F:\code\c#\trydll\trydll\obj\Debug\trydll.csprojResolveAssemblyReference.cache
+F:\code\c#\trydll\trydll\obj\Debug\trydll.Form1.resources
+F:\code\c#\trydll\trydll\obj\Debug\trydll.Properties.Resources.resources
+F:\code\c#\trydll\trydll\obj\Debug\trydll.csproj.GenerateResource.Cache
+F:\code\c#\trydll\trydll\obj\Debug\trydll.csproj.CoreCompileInputs.cache
+F:\code\c#\trydll\trydll\obj\Debug\trydll.exe
+F:\code\c#\trydll\trydll\obj\Debug\trydll.pdb
