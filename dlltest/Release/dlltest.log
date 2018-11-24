@@ -1,0 +1,11 @@
+﻿  createdll.cpp
+createdll.cpp(26): warning C4101: “count”: 未引用的局部变量
+createdll.cpp(27): warning C4101: “flag”: 未引用的局部变量
+    正在创建库 F:\code\c#\trydll\Release\dlltest.lib 和对象 F:\code\c#\trydll\Release\dlltest.exp
+  正在生成代码
+  6 of 156 functions ( 3.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    24 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  dlltest.vcxproj -> F:\code\c#\trydll\Release\dlltest.dll
+  dlltest.vcxproj -> F:\code\c#\trydll\Release\dlltest.pdb (Full PDB)

@@ -1,0 +1,6 @@
+LIBRARY
+
+EXPORTS
+
+add @ 1
+out @ 2
