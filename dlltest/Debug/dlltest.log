@@ -1,15 +1,5 @@
-﻿  stdafx.cpp
-f:\code\c#\trydll\dlltest\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-f:\code\c#\trydll\dlltest\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-f:\code\c#\trydll\dlltest\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  dlltest.cpp
-f:\code\c#\trydll\dlltest\dlltest.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  dllmain.cpp
-f:\code\c#\trydll\dlltest\dllmain.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  createdll.cpp
-f:\code\c#\trydll\dlltest\createdll.cpp(24): warning C4101: “count”: 未引用的局部变量
-f:\code\c#\trydll\dlltest\createdll.cpp(25): warning C4101: “flag”: 未引用的局部变量
-  正在生成代码...
-    正在创建库 F:\code\c#\trydll\Debug\dlltest.lib 和对象 F:\code\c#\trydll\Debug\dlltest.exp
+﻿  createdll.cpp
+f:\code\c#\trydll\dlltest\createdll.cpp(26): warning C4101: “count”: 未引用的局部变量
+f:\code\c#\trydll\dlltest\createdll.cpp(27): warning C4101: “flag”: 未引用的局部变量
   dlltest.vcxproj -> F:\code\c#\trydll\Debug\dlltest.dll
   dlltest.vcxproj -> F:\code\c#\trydll\Debug\dlltest.pdb (Partial PDB)
